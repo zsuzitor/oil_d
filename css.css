@@ -1,0 +1,24 @@
+div.div_inline_block{
+vertical-align: top;
+display: inline-block;
+
+}
+div.one_day{
+width:200px;
+height: 200px;
+background-color: #E6E6FA;
+margin-left: 20px;
+margin-top: 20px;
+cursor:pointer;
+
+}
+div.edit_one_day_block{
+width:300px;
+height: 400px;
+background-color: #E6E6FA;
+margin-top: 100px;
+}
+div.cur_button{
+	height: 30px;
+	width:100px;
+}
